@@ -7,10 +7,13 @@ The primary objective of this project is to extract meaningful insights from Vri
 For the access of the Dataset you can click here : https://bit.ly/3X381ok
 
 **Insights**
->>Women lead the charge in our sales, contributing an impressive 65% of purchases.
->>Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, driving approximately 35% of our total sales!
->>The age group between 30-49 years proves to be the key contributors, making up a significant 50% of our sales!
->>Amazon, Myntra, and Flipkart take center stage, contributing a substantial 80% towards our overall sales success!
+Women lead the charge in our sales, contributing an impressive 65% of purchases.
+
+Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, driving approximately 35% of our total sales!
+
+The age group between 30-49 years proves to be the key contributors, making up a significant 50% of our sales!
+
+Amazon, Myntra, and Flipkart take center stage, contributing a substantial 80% towards our overall sales success!
 
 **Conclusion**
 
